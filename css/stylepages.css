@@ -353,6 +353,9 @@ header div a img:hover{
 }
 
 /**** xxxxxxxxxxxxxx *******/
+footer hr{
+  transform: translateY(-20px);
+}
 .footer-container-bas {
   display: flex;
   width: 100%;
@@ -613,17 +616,17 @@ left: 80%;
 .services{
   padding-top: 90px;
   padding-bottom: 100px;
-  margin-bottom: -2000px;
+  margin-bottom: -1000px;
 }
 #ourservices{
   color: #E9BD8C;
   font-family: 'Sansita Swashed', system-ui;
   text-align: center;
-  transform: translateY(120px);
+  transform: translateY(210px);
   font-size: 74px;
 }
 hr{
-  transform: translateY(150px);
+  transform: translateY(210px);
   font-size: 20px
 }
 .servc-head{
